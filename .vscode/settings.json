@@ -1,0 +1,7 @@
+{
+    "CodeGPT.apiKey": "CodeGPT Plus Beta",
+    "wolf.disableHotModeWarning": true,
+    "files.readonlyInclude": {
+        "{**/.c4z/.extsrcs/*.PROTSYM.cbl,**/.c4z/.extsrcs/*.PROTSYM.listing}": true
+    }
+}
